@@ -12,12 +12,6 @@ Make sure to test your problem set on binder to make sure it will be possible to
 
 <a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-team-bozs_asks/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-team-bozs_asks%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-team-bozs_asks/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-team-bozs_asks%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
-
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-team-bozs_asks/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-team-bozs_asks%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
-
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-team-bozs_asks/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-team-bozs_asks%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
-
 # Cleanup
 
 Generally, it is good to clean up the repo once ready for student usage by deleting all unused files in the master branch. None of the files initially in the master branch (examples and blank templates from the template repo) are necessary and all can be deleted (although keeping the `.gitignore` is generally a good idea).
